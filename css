@@ -1,1 +1,51 @@
+body{
+	background-color: orange;
+	font-family: verdana, arial, sans serif ;
+	text-align: justify:
+} 
+h1{
+	text-align: center;
+	border-bottom: 6px double darkorange; 
+	font-size: 28px;
+}
+h2{
+	
+	border-bottom: 2px solid darkorange;
+	border-top: 2px solid darkorange;
+	margin-right: 50%;
+	
+}
+p{
+	text-align: justify;
+}
+p:first-letter{
+	margin-left: 45px;
+}
 
+
+#keret{
+	width: 960px;
+	margin: 0 auto;
+	background-color: cornsilk;
+	padding: 30px;
+	
+}
+ul{
+	margin-ledft: 80 px;
+}
+li{
+	margin-bottom: 5px;
+	text-align: justify;
+}
+img{
+	float: right;
+	width: 200px;
+	margin-left: 20px;
+	border: 2px solid orange;	
+}
+footer{ /*2.12*/
+	margin: 30px;
+	font-size: 14pt;
+	font-style: italic;
+	float: left;
+}
